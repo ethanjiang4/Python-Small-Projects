@@ -1,5 +1,7 @@
 #!/bin/python3
 
+#Module that shows the location of the ISS on a world map, as well as information about the astronauts
+
 import json
 import turtle
 import urllib.request
